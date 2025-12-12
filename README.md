@@ -1,5 +1,5 @@
-<h1 align="center">Full Stack Developer</h1>
-<h3 align="center">Python • Django • Node.js • React • AWS • CI/CD</h3>
+<h1 align="center">Yadhu Krishnan P S</h1>
+<h3 align="center">Full Stack Developer | Python • Django • Node.js • React • AWS • CI/CD</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,react,ts,js,postgres,mysql,aws,docker,git,github,linux" />
@@ -23,7 +23,7 @@ Demonstrated leadership and problem-solving skills focused on driving delivery, 
 **Apr 2024 – Present**
 
 - Designed and implemented scalable web applications using **Python (Django)** and **Node.js** for backend services, with **React** for responsive frontend interfaces.
-- Developed and documented **REST APIs** to integrate third-party services and internal modules, ensuring clear contracts and easier long-term maintenance.
+- Developed and documented **REST APIs** to integrate third-party services and internal modules, ensuring clear contracts and long-term maintainability.
 - Deployed, monitored, and managed applications on **AWS (EC2, S3, RDS, Lambda, CloudFront)** using cloud best practices to improve availability and performance.
 - Built **CI/CD pipelines** and containerized services using **Docker**, automating build, test, and deployment workflows.
 - Collaborated within **Agile teams**, participating in sprint planning, code reviews, and technical documentation to improve delivery speed and code quality.
@@ -45,45 +45,45 @@ Demonstrated leadership and problem-solving skills focused on driving delivery, 
 - Git & GitHub
 
 ### Tools & Practices
-- VS Code, Linux / Shell
-- Postman, Figma
-- JIRA, Agile / Scrum
-- Documentation & API design
+- VS Code, Linux / Shell  
+- Postman, Figma  
+- JIRA, Agile / Scrum  
+- Documentation & API design  
 
 ---
 
 ## 🤝 Soft Skills
 
-- Communication
-- Team Collaboration
-- Time Management
-- Ownership & Accountability
-- Leadership
-- Quick Learning
+- Communication  
+- Team Collaboration  
+- Time Management  
+- Ownership & Accountability  
+- Leadership  
+- Quick Learning  
 
 ---
 
 ## 🌱 Interests
 
-- Azure DevOps
-- Kubernetes
-- Redux
-- AI Tools
-- Cloud Computing
+- Azure DevOps  
+- Kubernetes  
+- Redux  
+- AI Tools  
+- Cloud Computing  
 
 ---
 
 ## 📬 Contact & Links
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
+  <a href="mailto:yadhu.k0007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yadhu.k0007@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/yadhu-krishnan07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yadhu%20Krishnan-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/yadhu2001">
+    <img src="https://img.shields.io/badge/GitHub-yadhu2001-black?style=for-the-badge&logo=github" />
   </a>
 </p>
 
